@@ -1,0 +1,340 @@
+[
+  {
+    "id": "q1",
+    "type": "mc",
+    "topic": "Oberfläche",
+    "question": "Wo findest du den Namen des geöffneten Dokuments?",
+    "options": [
+      "In der Statuszeile",
+      "In der Titelleiste",
+      "In der Bildlaufleiste",
+      "In der Registerkarte"
+    ],
+    "answer": 1,
+    "explanation": "Die Titelleiste zeigt den Dokumentnamen und den Namen des Programms.",
+    "source": "surface"
+  },
+  {
+    "id": "q2",
+    "type": "mc",
+    "topic": "Oberfläche",
+    "question": "Welcher Bereich zeigt Befehle in Gruppen wie „Schriftart“ und „Absatz“?",
+    "options": [
+      "Das horizontale Lineal",
+      "Die untere Statuszeile",
+      "Das geöffnete Menüband",
+      "Die senkrechte Bildlaufleiste"
+    ],
+    "answer": 2,
+    "explanation": "Das Menüband enthält Befehlsgruppen. Die ausgewählte Registerkarte bestimmt, welche Gruppen erscheinen.",
+    "source": "surface"
+  },
+  {
+    "id": "q3",
+    "type": "mc",
+    "topic": "Oberfläche",
+    "question": "Wozu dient die Symbolleiste für den Schnellzugriff?",
+    "options": [
+      "Häufige Befehle bereithalten",
+      "Seitliche Ränder anzeigen",
+      "Sichtbare Seiten verschieben",
+      "Ausgewählte Wörter zählen"
+    ],
+    "answer": 0,
+    "explanation": "Sie bietet schnellen Zugriff auf häufige Befehle, beispielsweise Speichern oder Rückgängig. Ihre Position ist versionsabhängig.",
+    "source": "surface"
+  },
+  {
+    "id": "q4",
+    "type": "mc",
+    "topic": "Oberfläche",
+    "question": "Wofür nutzt du das Lineal in Word?",
+    "options": [
+      "Zum automatischen Rechtschreibprüfen",
+      "Zum gleichzeitigen Dateidrucken",
+      "Zum dauerhaften Dokumentlöschen",
+      "Einzüge gezielt einstellen"
+    ],
+    "answer": 3,
+    "explanation": "Am Lineal lassen sich unter anderem Absatzeinzüge und Tabstopps einstellen; es bietet räumliche Orientierung.",
+    "source": "surface"
+  },
+  {
+    "id": "q5",
+    "type": "mc",
+    "topic": "Oberfläche",
+    "question": "Wo stehen Informationen wie Seitenzahl und Wortanzahl?",
+    "options": [
+      "In der Titelleiste",
+      "In der Statuszeile",
+      "In der Zwischenablage",
+      "In der Registerkarte"
+    ],
+    "answer": 1,
+    "explanation": "Die Statuszeile liegt unten im Fenster und zeigt Dokumentinformationen, etwa Seite und Wortanzahl.",
+    "source": "surface"
+  },
+  {
+    "id": "q6",
+    "type": "mc",
+    "topic": "Oberfläche",
+    "question": "Was bewirkt der Zoom-Schieberegler?",
+    "options": [
+      "Er verändert die Schriftgröße",
+      "Er verändert die Papiergröße",
+      "Er verändert die Bildschirmvergrößerung",
+      "Er verändert die Absatzabstände"
+    ],
+    "answer": 2,
+    "explanation": "Zoom verändert die Ansicht am Bildschirm, nicht die gespeicherte Schriftgröße oder das Drucklayout.",
+    "source": "surface"
+  },
+  {
+    "id": "q7",
+    "type": "mc",
+    "topic": "Oberfläche",
+    "question": "Du möchtest weiter unten im Dokument schauen. Was hilft dir?",
+    "options": [
+      "Die senkrechte Bildlaufleiste",
+      "Die geöffnete Schriftartliste",
+      "Die obere Titelleiste",
+      "Die eingestellte Schriftfarbe"
+    ],
+    "answer": 0,
+    "explanation": "Mit der Bildlaufleiste verschiebst du den sichtbaren Dokumentausschnitt. Ansichtsschaltflächen wechseln dagegen den Ansichtsmodus.",
+    "source": "surface"
+  },
+  {
+    "id": "q8",
+    "type": "mc",
+    "topic": "Registerkarten",
+    "question": "Wo findest du im gezeigten Word typischerweise „Schriftart ändern“ und „Aufzählung“?",
+    "options": [
+      "Unter „Layout“",
+      "Unter „Entwurf“",
+      "Unter „Einfügen“",
+      "Unter „Start“"
+    ],
+    "answer": 3,
+    "explanation": "Die Registerkarte Start enthält grundlegende Schrift- und Absatzformatierung.",
+    "source": "tabs"
+  },
+  {
+    "id": "q9",
+    "type": "mc",
+    "topic": "Registerkarten",
+    "question": "Wo fügst du Tabellen, Bilder, Formen und Diagramme hinzu?",
+    "options": [
+      "Unter „Layout“",
+      "Unter „Einfügen“",
+      "Unter „Entwurf“",
+      "Unter „Start“"
+    ],
+    "answer": 1,
+    "explanation": "Neue Elemente wie Bilder und Tabellen werden über Einfügen hinzugefügt.",
+    "source": "tabs"
+  },
+  {
+    "id": "q10",
+    "type": "mc",
+    "topic": "Registerkarten",
+    "question": "Welche Registerkarte passt im Arbeitsblatt zu Seitenrändern und Seitenausrichtung?",
+    "options": [
+      "Registerkarte „Start“",
+      "Registerkarte „Einfügen“",
+      "Registerkarte „Layout“",
+      "Registerkarte „Entwurf“"
+    ],
+    "answer": 2,
+    "explanation": "Layout enthält Einstellungen zur Seite, darunter Ränder und Hoch- oder Querformat. Entwurf dient unter anderem Dokumentdesigns.",
+    "source": "tabs"
+  },
+  {
+    "id": "q11",
+    "type": "mc",
+    "topic": "Registerkarten",
+    "question": "Welche Registerkarte passt zu einem Dokumentdesign?",
+    "options": [
+      "Registerkarte „Entwurf“",
+      "Registerkarte „Start“",
+      "Registerkarte „Einfügen“",
+      "Registerkarte „Layout“"
+    ],
+    "answer": 0,
+    "explanation": "Entwurf enthält Dokumentdesigns; Layout regelt dagegen beispielsweise Seitenränder und Ausrichtung.",
+    "source": "tabs"
+  },
+  {
+    "id": "q12",
+    "type": "mc",
+    "topic": "Befehle",
+    "question": "Welchen Befehl stellt ein Diskettensymbol typischerweise dar?",
+    "options": [
+      "Datei drucken",
+      "Datei schließen",
+      "Datei öffnen",
+      "Datei speichern"
+    ],
+    "answer": 3,
+    "explanation": "Das Diskettensymbol steht für Speichern. Das Druckersymbol steht für Drucken.",
+    "source": "commands"
+  },
+  {
+    "id": "q13",
+    "type": "mc",
+    "topic": "Befehle",
+    "question": "Du hast gerade versehentlich Text gelöscht. Welcher Befehl hilft zuerst?",
+    "options": [
+      "Die Aktion wiederholen",
+      "Die Aktion zurücknehmen",
+      "Die Datei umbenennen",
+      "Das Fenster minimieren"
+    ],
+    "answer": 1,
+    "explanation": "Rückgängig nimmt die letzte rückgängig machbare Aktion zurück. Wiederherstellen kann eine rückgängig gemachte Aktion erneut ausführen.",
+    "source": "commands"
+  },
+  {
+    "id": "q14",
+    "type": "mc",
+    "topic": "Formatierung",
+    "question": "Was bedeuten F, K und U in der deutschen Symbolgruppe?",
+    "options": [
+      "Farbe, Kontur, Umbruch",
+      "Fett, Kursiv, Unterstrichen",
+      "Form, Kasten, Umriss",
+      "Fenster, Kommentar, Umfang"
+    ],
+    "answer": 1,
+    "explanation": "F = fett, K = kursiv, U = unterstrichen. Das A mit farbigem Balken bezeichnet die Schriftfarbe.",
+    "source": "format"
+  },
+  {
+    "id": "q15",
+    "type": "mc",
+    "topic": "Formatierung",
+    "question": "Ein A mit farbigem Balken darunter steht für …",
+    "options": [
+      "die aktuelle Seitenfarbe",
+      "die aktuelle Rahmenfarbe",
+      "die aktuelle Schriftfarbe",
+      "die aktuelle Tabellenfarbe"
+    ],
+    "answer": 2,
+    "explanation": "Mit Schriftfarbe änderst du die Farbe des Textes. Das ist etwas anderes als die Hintergrundfarbe der Seite.",
+    "source": "format"
+  },
+  {
+    "id": "q16",
+    "type": "mc",
+    "topic": "Ausrichtung",
+    "question": "Text soll in der Mitte zwischen linkem und rechtem Rand stehen. Welche Ausrichtung passt?",
+    "options": [
+      "Absatz zentriert ausrichten",
+      "Absatz linksbündig ausrichten",
+      "Absatz rechtsbündig ausrichten",
+      "Absatz bündig blocksetzen"
+    ],
+    "answer": 0,
+    "explanation": "Zentriert stellt den Absatz mittig. Links- und rechtsbündig richten ihn jeweils nur an einer Seite aus.",
+    "source": "align"
+  },
+  {
+    "id": "q17",
+    "type": "mc",
+    "topic": "Ausrichtung",
+    "question": "Welche Ausrichtung erzeugt gewöhnlich sowohl links als auch rechts gerade Absatzkanten?",
+    "options": [
+      "Die zentrierte Ausrichtung",
+      "Die linksbündige Ausrichtung",
+      "Die rechtsbündige Ausrichtung",
+      "Die Ausrichtung Blocksatz"
+    ],
+    "answer": 3,
+    "explanation": "Blocksatz verteilt Wortabstände, damit die Zeilen beide Ränder erreichen. Die letzte Absatzzeile ist normalerweise kürzer.",
+    "source": "align"
+  },
+  {
+    "id": "q18",
+    "type": "mc",
+    "topic": "Symbole",
+    "question": "Welches Symbol passt zum Einfügen einer Tabelle?",
+    "options": [
+      "Eine kleine Landschaft",
+      "Ein regelmäßiges Zellraster",
+      "Mehrere senkrechte Säulen",
+      "Mehrere überlappende Formen"
+    ],
+    "answer": 1,
+    "explanation": "Das Zellraster steht für eine Tabelle. Die Landschaft steht für ein Bild, Säulen für ein Diagramm und überlappende geometrische Objekte für Formen.",
+    "source": "elements"
+  },
+  {
+    "id": "q19",
+    "type": "mc",
+    "topic": "Fenster",
+    "question": "Welche Aktion verkleinert das Fenster in die Taskleiste, ohne das Dokument zu schließen?",
+    "options": [
+      "Das Fenster schließen",
+      "Das Fenster maximieren",
+      "Das Fenster minimieren",
+      "Das Fenster verschieben"
+    ],
+    "answer": 2,
+    "explanation": "Minimieren blendet das Fenster in die Taskleiste aus. Maximieren vergrößert es; Schließen beendet das Fenster.",
+    "source": "surface"
+  },
+  {
+    "id": "q20",
+    "type": "mc",
+    "topic": "Ansichten",
+    "question": "Was ändern die Ansichtsschaltflächen unten im Word-Fenster?",
+    "options": [
+      "Den gewählten Ansichtsmodus",
+      "Den gespeicherten Dateinamen",
+      "Den markierten Schriftstil",
+      "Den verwendeten Drucker"
+    ],
+    "answer": 0,
+    "explanation": "Ansichtsschaltflächen wechseln die Darstellung, etwa Lesemodus oder Drucklayout. Zoom ändert dagegen die Vergrößerung.",
+    "source": "surface"
+  },
+  {
+    "id": "q21",
+    "topic": "Neues Dokument",
+    "type": "recall",
+    "question": "Erkläre aus dem Gedächtnis: Wie beginnst du ein neues, leeres Dokument?",
+    "model": "Word öffnen → „Leeres Dokument“ auswählen → auf der Seite schreiben. Ist Word bereits geöffnet, geht es typischerweise über Datei → Neu → Leeres Dokument.",
+    "checklist": [
+      "Word ist geöffnet.",
+      "Ein neues leeres Dokument ist gewählt.",
+      "Danach beginnt die Texteingabe."
+    ],
+    "source": "practice"
+  },
+  {
+    "id": "q22",
+    "topic": "Bild einfügen",
+    "type": "recall",
+    "question": "Wie fügst du ein gespeichertes Bild in dein Dokument ein?",
+    "model": "Einfügeposition wählen → Registerkarte Einfügen → Bilder → Bildquelle bzw. Datei wählen → Einfügen. Je nach Word-Version heißen Zwischenschritte etwas anders.",
+    "checklist": [
+      "Einfügen und Bilder genannt.",
+      "Die passende Bilddatei ausgewählt.",
+      "Einfügen bestätigt; Bild erscheint an der gewählten Position."
+    ],
+    "source": "practice"
+  },
+  {
+    "id": "q23",
+    "topic": "Formatieren",
+    "type": "recall",
+    "question": "Nenne vier weitere Möglichkeiten der Textformatierung außer fett, kursiv, unterstrichen, Schriftfarbe und Ausrichtung.",
+    "model": "Zum Beispiel Schriftart, Schriftgröße, Zeilenabstand und Aufzählung. Auch Nummerierung oder Einzüge sind passende Beispiele.",
+    "checklist": [
+      "Vier unterschiedliche Möglichkeiten genannt.",
+      "Keine bloße Wiederholung der in der Frage ausgeschlossenen Formate."
+    ],
+    "source": "format"
+  }
+]
