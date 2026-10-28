@@ -1,0 +1,268 @@
+[
+  {
+    "id": "q1",
+    "type": "mc",
+    "topic": "Grundidee",
+    "question": "Was bedeutet „x ist eine Lösung“?",
+    "options": [
+      "Beide Seiten werden gleich.",
+      "Beide Seiten werden positiv.",
+      "Beide Seiten werden größer.",
+      "Beide Seiten werden vertauscht."
+    ],
+    "answer": 0,
+    "explanation": "Setzt du die Lösung für x ein, haben linke und rechte Seite denselben Wert.",
+    "source": "add"
+  },
+  {
+    "id": "q2",
+    "type": "mc",
+    "topic": "Umformen",
+    "question": "Löse: x + 9 = 16",
+    "options": [
+      "x = 25",
+      "x = 7",
+      "x = −7",
+      "x = 9"
+    ],
+    "answer": 1,
+    "explanation": "Auf beiden Seiten 9 abziehen: x = 16 − 9 = 7. Probe: 7 + 9 = 16.",
+    "source": "add"
+  },
+  {
+    "id": "q3",
+    "type": "mc",
+    "topic": "Umformen",
+    "question": "Löse: x − 6 = −2",
+    "options": [
+      "x = −8",
+      "x = 8",
+      "x = 4",
+      "x = −4"
+    ],
+    "answer": 2,
+    "explanation": "Auf beiden Seiten 6 addieren: x = −2 + 6 = 4. Probe: 4 − 6 = −2.",
+    "source": "add"
+  },
+  {
+    "id": "q4",
+    "type": "mc",
+    "topic": "Umformen",
+    "question": "Löse: 5x = −35",
+    "options": [
+      "x = 7",
+      "x = −30",
+      "x = −175",
+      "x = −7"
+    ],
+    "answer": 3,
+    "explanation": "Beide Seiten durch 5 teilen: x = −7. Probe: 5 · (−7) = −35.",
+    "source": "mul"
+  },
+  {
+    "id": "q5",
+    "type": "mc",
+    "topic": "Umformen",
+    "question": "Löse: −3x = 18",
+    "options": [
+      "x = −6",
+      "x = 6",
+      "x = −15",
+      "x = 15"
+    ],
+    "answer": 0,
+    "explanation": "Durch −3 teilen: x = −6. Minus mal Minus ergibt bei der Probe +18.",
+    "source": "mul"
+  },
+  {
+    "id": "q6",
+    "type": "mc",
+    "topic": "Äquivalenzumformung",
+    "question": "Welche Umformung erhält bei jeder Gleichung sicher die Lösungsmenge?",
+    "options": [
+      "Nur links vier addieren.",
+      "Beidseits jeweils vier subtrahieren.",
+      "Nur rechts vier subtrahieren.",
+      "Beidseits mit null multiplizieren."
+    ],
+    "answer": 1,
+    "explanation": "Dieselbe Zahl auf beiden Seiten zu subtrahieren ist umkehrbar. Nur eine Seite zu ändern ist nicht zulässig. Multiplizieren mit 0 verliert Information.",
+    "source": "add"
+  },
+  {
+    "id": "q7",
+    "type": "mc",
+    "topic": "Umformen",
+    "question": "Löse: 4x + 3 = 27",
+    "options": [
+      "x = 30",
+      "x = 24",
+      "x = 6",
+      "x = 7"
+    ],
+    "answer": 2,
+    "explanation": "Erst beidseits −3: 4x = 24. Dann durch 4 teilen: x = 6. Probe: 4 · 6 + 3 = 27.",
+    "source": "mul"
+  },
+  {
+    "id": "q8",
+    "type": "mc",
+    "topic": "Klammern",
+    "question": "Löse: 3(x + 4) = 33",
+    "options": [
+      "x = 15",
+      "x = 11",
+      "x = 9",
+      "x = 7"
+    ],
+    "answer": 3,
+    "explanation": "Zum Beispiel beidseits durch 3 teilen: x + 4 = 11. Dann −4: x = 7. Alternativ zuerst ausmultiplizieren.",
+    "source": "strategy"
+  },
+  {
+    "id": "q9",
+    "type": "mc",
+    "topic": "Fehler finden",
+    "question": "Jemand schreibt 2(x − 5) = 2x − 5. Wie lautet die korrekte rechte Seite?",
+    "options": [
+      "2x − 10",
+      "2x + 10",
+      "2x − 5",
+      "2x + 5"
+    ],
+    "answer": 0,
+    "explanation": "Der Faktor 2 muss beide Terme in der Klammer multiplizieren: 2 · x − 2 · 5 = 2x − 10.",
+    "source": "strategy"
+  },
+  {
+    "id": "q10",
+    "type": "mc",
+    "topic": "x auf beiden Seiten",
+    "question": "Löse: 7x − 4 = 3x + 20",
+    "options": [
+      "x = 4",
+      "x = 6",
+      "x = −6",
+      "x = 24"
+    ],
+    "answer": 1,
+    "explanation": "Beidseits −3x: 4x − 4 = 20. Dann +4 und durch 4 teilen: x = 6. Probe: Beide Seiten sind 38.",
+    "source": "strategy"
+  },
+  {
+    "id": "q11",
+    "type": "mc",
+    "topic": "Brüche",
+    "question": "Löse: x/4 + 3 = 8",
+    "options": [
+      "x = 5",
+      "x = 11",
+      "x = 20",
+      "x = 32"
+    ],
+    "answer": 2,
+    "explanation": "Erst −3: x/4 = 5. Dann beide Seiten mit 4 multiplizieren: x = 20. Probe: 20/4 + 3 = 8.",
+    "source": "frac"
+  },
+  {
+    "id": "q12",
+    "type": "mc",
+    "topic": "Dezimalzahlen",
+    "question": "Löse: 0,5x + 2 = 5",
+    "options": [
+      "x = 3",
+      "x = 10",
+      "x = 14",
+      "x = 6"
+    ],
+    "answer": 3,
+    "explanation": "Erst −2: 0,5x = 3. Division durch 0,5 ergibt x = 6. Probe: 0,5 · 6 + 2 = 5.",
+    "source": "frac"
+  },
+  {
+    "id": "q13",
+    "type": "mc",
+    "topic": "Probe",
+    "question": "Du prüfst x = 5 in 2x + 1 = 11. Welches Ergebnis bestätigt die Lösung?",
+    "options": [
+      "11 = 11",
+      "10 = 11",
+      "12 = 11",
+      "11 = 10"
+    ],
+    "answer": 0,
+    "explanation": "Einsetzen in die ursprüngliche Gleichung ergibt 2 · 5 + 1 = 11. Beide Seiten haben denselben Wert.",
+    "source": "add"
+  },
+  {
+    "id": "q14",
+    "type": "mc",
+    "topic": "Lösungsfälle",
+    "question": "Nach korrektem Umformen bleibt 0x = 7. Was bedeutet das über den reellen Zahlen?",
+    "options": [
+      "Es gibt jede Lösung.",
+      "Es gibt keine Lösung.",
+      "Es gibt eine Lösung.",
+      "Es gibt sieben Lösungen."
+    ],
+    "answer": 1,
+    "explanation": "0 · x ist immer 0 und niemals 7. Die Gleichung ist für kein x wahr.",
+    "source": "strategy"
+  },
+  {
+    "id": "q15",
+    "type": "mc",
+    "topic": "Lösungsfälle",
+    "question": "Nach korrektem Umformen bleibt 0x = 0. Was bedeutet das über den reellen Zahlen?",
+    "options": [
+      "Nur die Null passt.",
+      "Nur die Eins passt.",
+      "Jede reelle Zahl passt.",
+      "Keine reelle Zahl passt."
+    ],
+    "answer": 2,
+    "explanation": "0 · x = 0 ist für jede reelle Zahl wahr. Die ursprüngliche Gleichung hat dann ebenfalls alle reellen Zahlen als Lösungen.",
+    "source": "strategy"
+  },
+  {
+    "id": "q16",
+    "type": "mc",
+    "topic": "Sachaufgabe",
+    "question": "Drei gleiche Hefte und ein Stift für 2 € kosten zusammen 14 €. x ist der Preis eines Hefts. Welche Gleichung passt?",
+    "options": [
+      "3x − 2 = 14",
+      "3x + 14 = 2",
+      "3x = 14 + 2",
+      "3x + 2 = 14"
+    ],
+    "answer": 3,
+    "explanation": "Die Hefte kosten zusammen 3x Euro, der Stift zusätzlich 2 Euro. Die Summe ist 14 Euro.",
+    "source": "add"
+  },
+  {
+    "id": "q17",
+    "type": "recall",
+    "topic": "Selbst erklären",
+    "question": "Löse 2(x − 3) = 10 mit Rechenweg und Probe. Warum darfst du jeden Schritt ausführen?",
+    "model": "Beide Seiten durch 2 teilen: x − 3 = 5. Auf beiden Seiten 3 addieren: x = 8. Probe in der ursprünglichen Gleichung: 2 · (8 − 3) = 10. Die Schritte sind auf beiden Seiten gleich und umkehrbar.",
+    "checklist": [
+      "x = 8 und ein nachvollziehbarer Rechenweg.",
+      "Gleiche, umkehrbare Operationen auf beiden Seiten.",
+      "Probe in der ursprünglichen Gleichung ergibt 10 = 10."
+    ],
+    "source": "strategy"
+  },
+  {
+    "id": "q18",
+    "type": "recall",
+    "topic": "Fehler erklären",
+    "question": "Aus 3x + 2 = 17 macht jemand x + 2 = 17/3. Erkläre den Fehler und löse die Gleichung korrekt.",
+    "model": "Beim Teilen durch 3 muss die gesamte linke Seite geteilt werden, auch die +2. Einfacher: zuerst auf beiden Seiten 2 abziehen, also 3x = 15. Dann durch 3 teilen: x = 5. Probe: 3 · 5 + 2 = 17.",
+    "checklist": [
+      "Der Summand +2 darf beim Teilen nicht unverändert bleiben.",
+      "Korrekte Umformung auf beiden Seiten; Ergebnis x = 5.",
+      "Die Probe bestätigt 17 = 17."
+    ],
+    "source": "mul"
+  }
+]
